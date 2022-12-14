@@ -1,8 +1,6 @@
 # Research on car sales ads
 
-Chukwuemeka Okoli <br>
-Practicum by Yandex Project 2 <br>
-April 16, 2021 
+GROUP 7_SEC_A_BA <br>
 
 **Project description** <br>
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day.

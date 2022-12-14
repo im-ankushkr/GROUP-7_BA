@@ -1,4 +1,4 @@
-# Research on car sales ads
+# BUSINESS ANALYTICS PROJECT (GROUP 7_SEC_A)
 
 GROUP 7_SEC_A_BA <br>
 
